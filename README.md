@@ -1,2 +1,2 @@
 # Linux
-设置文件
+.vimrc and .vim
